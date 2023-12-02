@@ -11,7 +11,6 @@ public class Main {
         result = result - result*2;
         System.out.println(result);
 
-
         var a = 5;
         var b = 7;
         a = b - a;
