@@ -19,7 +19,6 @@ public class Main {
         System.out.println(a);
         System.out.println(b);
 
-
         var c = 278;
         var u = c / 10 % 10 ;
         System.out.println(u);
